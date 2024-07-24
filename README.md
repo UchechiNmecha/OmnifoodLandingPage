@@ -36,7 +36,7 @@ Link to demo:
 
 - Live Site URL: [Live site](https://omnifoodbyuceeey.netlify.app/)
 
-## Screenshots
+## Screenshot
 
 ![](./screenshot.png)
 
